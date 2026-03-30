@@ -1,1 +1,1 @@
-# mephi-session-project-2026
+![alt text](image.png)
